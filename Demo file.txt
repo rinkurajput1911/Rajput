@@ -1,1 +1,10 @@
 i lived in rajashathan
+/html/body/div[2]/div[1]/div[1]/form/div[1]/div/div/div/ul/li[2]/span
+
+//*[@id="sbq-wrap"]/div/div/div/ul/li[1]/span
+
+//*[@id="sbq-wrap"]/div/div/div/ul/li[1]
+
+//*[@id="bd"]/ol[1]/li/div/div/ul/li[5]/div/div[1]/a/img
+
+//*[@id="bd"]/ol[1]/li/div/div/ul/li[5]/div/div[1]/a/img
