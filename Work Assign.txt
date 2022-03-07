@@ -1,0 +1,34 @@
+My name is rajput
+
+BJ
+entry 100 sell
+       2 rs loss
+exit 102 buy
+10k 30k  
+intraday trading
+10k 
+
+swing trading 10k 18k
+9.15 to 3.30 trade same
+
+long term
+1k 5k
+6k
+6000 2000
+delivery
+long term 6000 6k
+
+495  28 feb  delivery longterem buy entry  
+600  sell  exit 
+equity   derivative 100 share 440000
+ future  /options  lot 1000 call put
+commodity
+crurency
+
+stop loss
+100 share price buy 
+98 stop loss 
+101 3.30
+105 target
+
+ 
