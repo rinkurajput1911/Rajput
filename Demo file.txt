@@ -1,4 +1,5 @@
 i lived in rajashathan
+<<<<<<< HEAD
 
 
 /html/body/div[2]/div[1]/div[1]/form/div[1]/div/div/div/ul/li[2]/span
@@ -10,3 +11,6 @@ i lived in rajashathan
 //*[@id="bd"]/ol[1]/li/div/div/ul/li[5]/div/div[1]/a/img
 
 //*[@id="bd"]/ol[1]/li/div/div/ul/li[5]/div/div[1]/a/img
+=======
+My name is khan
+>>>>>>> e2d44a8aee564772aba59349e7bbcec1a5e8b1e9
