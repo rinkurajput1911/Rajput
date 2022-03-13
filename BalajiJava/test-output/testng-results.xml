@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-28T12:23:29 IST" name="Default suite" finished-at="2022-02-28T12:23:29 IST" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2022-02-28T12:23:29 IST" name="Default test" finished-at="2022-02-28T12:23:29 IST" duration-ms="37">
+      <class name="Loops.Continuesky">
+        <test-method signature="loop()[pri:0, instance:Loops.Continuesky@7f010382]" started-at="2022-02-28T12:23:29 IST" name="loop" finished-at="2022-02-28T12:23:29 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loop -->
+        <test-method signature="name()[pri:0, instance:Loops.Continuesky@7f010382]" started-at="2022-02-28T12:23:29 IST" name="name" finished-at="2022-02-28T12:23:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- Loops.Continuesky -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
